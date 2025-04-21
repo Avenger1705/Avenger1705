@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">👋 Hi, I'm Mohamed Saadallah
+🎓 Computer Science student at ISIMSF
+💻 Full-stack development enthusiast | Open-source contributor
+🌐 Passionate about building smart, real-world solutions</h2>
 
 ###
 
