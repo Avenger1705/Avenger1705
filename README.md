@@ -1,7 +1,7 @@
-<h2 align="left">👋 Hi, I'm Mohamed Saadallah
-\n🎓 Computer Science student at ISIMSF
-💻 Full-stack development enthusiast | Open-source contributor
-🌐 Passionate about building smart, real-world solutions</h2>
+<h2 align="left">👋 Hi, I'm Mohamed Saadallah</h2>
+<h2>🎓 Computer Science student at ISIMSF</h2>
+<h2>💻 Full-stack development enthusiast | Open-source contributor</h2>
+<h2>🌐 Passionate about building smart, real-world solutions</h2>
 
 ###
 
