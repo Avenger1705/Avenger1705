@@ -1,5 +1,5 @@
 <h2 align="left">👋 Hi, I'm Mohamed Saadallah
-🎓 Computer Science student at ISIMSF
+\n🎓 Computer Science student at ISIMSF
 💻 Full-stack development enthusiast | Open-source contributor
 🌐 Passionate about building smart, real-world solutions</h2>
 
