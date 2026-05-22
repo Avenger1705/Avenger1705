@@ -4,17 +4,8 @@
 ###
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Avenger1705&theme=dracula&hide_border=false&border_radius=5" 
-    height="150" 
-    alt="streak graph"  
-  />
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Avenger1705&theme=dracula" 
-    height="150" 
-    alt="languages graph"  
-  />
+  <img src="https://streak-stats.demolab.com?user=Avenger1705&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Avenger1705&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
